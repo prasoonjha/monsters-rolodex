@@ -1,0 +1,12 @@
+.search-container {
+  width: 20vw;
+  margin: 5% auto;
+  border: none;
+  border-radius: 10px;
+}
+
+.search-bar {
+  border-style: none;
+  border-radius: 6px;
+  width: 70%;
+}
